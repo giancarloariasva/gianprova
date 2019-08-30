@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/gianprova/static/css/main.44ee8014.chunk.css",
+    "main.js": "/gianprova/static/js/main.3bf7e629.chunk.js",
+    "main.js.map": "/gianprova/static/js/main.3bf7e629.chunk.js.map",
+    "runtime~main.js": "/gianprova/static/js/runtime~main.980b219b.js",
+    "runtime~main.js.map": "/gianprova/static/js/runtime~main.980b219b.js.map",
+    "static/js/2.d0f56a5f.chunk.js": "/gianprova/static/js/2.d0f56a5f.chunk.js",
+    "static/js/2.d0f56a5f.chunk.js.map": "/gianprova/static/js/2.d0f56a5f.chunk.js.map",
+    "index.html": "/gianprova/index.html",
+    "precache-manifest.cc580109c5f92aaf4ec932102d823e19.js": "/gianprova/precache-manifest.cc580109c5f92aaf4ec932102d823e19.js",
+    "service-worker.js": "/gianprova/service-worker.js",
+    "static/css/main.44ee8014.chunk.css.map": "/gianprova/static/css/main.44ee8014.chunk.css.map"
+  }
+}
