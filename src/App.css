@@ -31,3 +31,76 @@
     transform: rotate(360deg);
   }
 }
+
+.colortest {
+  color: red;
+}
+
+.bordertest {
+  border: solid blue;
+}
+
+.slide {
+  width: 100vw;
+  height: 100vh;
+}
+
+.wrapper {
+  display: flex;
+  flex-direction:row;
+  width: 300vw;
+  transform: rotate(90deg) translateY(-100vh);
+  transform-origin: top left;
+}
+
+.one {
+  background: #231c42;
+  color: white;
+}
+
+.two {
+  background: #72df6e;
+  position: sticky;
+  left: 0;
+}
+
+.three {
+  background: rgb(205, 218, 23);
+}
+
+.C {
+  background: rgb(205, 218, 23);
+}
+
+.outer-wrapper{
+  width:100vh;
+  height:100vw;
+  transform: rotate(-90deg) translateX(-100vh);
+  transform-origin: top left;
+  overflow-y: scroll;
+  overflow-x: hidden;
+  position: absolute;
+  scrollbar-width: none;
+  -ms-overflow-style: none;
+}
+
+::-webkit-scrollbar {
+  display: none;
+}
+
+.contenedor {
+  display: grid;
+  grid-template-columns: 33% 33% 33%;
+  grid-template-rows: auto;
+}
+
+.item-a {
+  grid-column: 1;
+  grid-row: 2;
+}
+.item-b {
+  grid-column: 2;
+}
+.item-c {
+  grid-column: 3;
+}
