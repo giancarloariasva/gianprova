@@ -1,15 +1,16 @@
 {
   "files": {
-    "main.css": "/gianprova/static/css/main.44ee8014.chunk.css",
-    "main.js": "/gianprova/static/js/main.3bf7e629.chunk.js",
-    "main.js.map": "/gianprova/static/js/main.3bf7e629.chunk.js.map",
+    "main.css": "/gianprova/static/css/main.e6b3715a.chunk.css",
+    "main.js": "/gianprova/static/js/main.0eed2463.chunk.js",
+    "main.js.map": "/gianprova/static/js/main.0eed2463.chunk.js.map",
     "runtime~main.js": "/gianprova/static/js/runtime~main.980b219b.js",
     "runtime~main.js.map": "/gianprova/static/js/runtime~main.980b219b.js.map",
-    "static/js/2.d0f56a5f.chunk.js": "/gianprova/static/js/2.d0f56a5f.chunk.js",
-    "static/js/2.d0f56a5f.chunk.js.map": "/gianprova/static/js/2.d0f56a5f.chunk.js.map",
+    "static/js/2.5c55886b.chunk.js": "/gianprova/static/js/2.5c55886b.chunk.js",
+    "static/js/2.5c55886b.chunk.js.map": "/gianprova/static/js/2.5c55886b.chunk.js.map",
     "index.html": "/gianprova/index.html",
-    "precache-manifest.cc580109c5f92aaf4ec932102d823e19.js": "/gianprova/precache-manifest.cc580109c5f92aaf4ec932102d823e19.js",
+    "precache-manifest.0d9f7f15f3d2e2a1a43ead5d1ceb4d94.js": "/gianprova/precache-manifest.0d9f7f15f3d2e2a1a43ead5d1ceb4d94.js",
     "service-worker.js": "/gianprova/service-worker.js",
-    "static/css/main.44ee8014.chunk.css.map": "/gianprova/static/css/main.44ee8014.chunk.css.map"
+    "static/css/main.e6b3715a.chunk.css.map": "/gianprova/static/css/main.e6b3715a.chunk.css.map",
+    "static/media/logo.svg": "/gianprova/static/media/logo.26ef1cbc.svg"
   }
 }
